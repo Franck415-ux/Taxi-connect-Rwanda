@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #003366;
+  color: white;
+  padding: 1.5em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1em;
+  color: green;
+  text-decoration: none;
+}
+
+main {
+  padding: 2em;
+}
+
+form input {
+  width: 100%;
+  padding: 0.7em;
+  margin: 0.5em 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #003366;
+  color: black;
+  border: none;
+  padding: 0.7em 1.2em;
+  cursor: pointer;
+}
+
+.driver {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 10px;
+}
+
+.driver h3 {
+  margin-top: 0;
+}
